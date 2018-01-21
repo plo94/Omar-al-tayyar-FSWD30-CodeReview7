@@ -1,0 +1,19 @@
+*{
+
+}
+
+.nav {
+	background-color: #606060;
+}
+.jumbotron {
+		background-image: url(https://image.freepik.com/free-photo/colorful-heart_1160-637.jpg);
+}
+.container {
+	margin-top: 20px;
+}
+.row {
+	padding: 10px;
+}
+footer {
+	text-align: center;
+}
